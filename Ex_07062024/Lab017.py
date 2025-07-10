@@ -22,6 +22,9 @@ b=1
 print(f"{b}X1={b}")
 print("This is format function")
 print("2x{}={},{}".format(b,b*1,b+2))
+d=3
+print("10X{}={},{},{}".format(d,d*2,d+2,d+4))
+print("10-{}={}****************{},{}+{}".format(d,d*2,d+2,d+4,2))
 
 # OUTPUT:
 # C:\Users\User\PycharmProjects\PythonTesting\PyLearning3xATB\.venv\Scripts\python.exe C:\Users\User\PycharmProjects\PythonTesting\PyLearning3xATB\Ex_07062024\Lab017.py

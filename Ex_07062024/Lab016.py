@@ -33,6 +33,4 @@ print(f'Your name is {first_name} {last_name}')
 #print("First name is {} and last name is {}".format(first_name,last_name))
 
 # format function is used to replace the values of variables in the required places.
-print("first name is {} and last name is{}".format( first_name,last_name))
-
-
+print("first name is {} and last name is  {} and middle name is {} ".format( first_name,last_name, 2020))
